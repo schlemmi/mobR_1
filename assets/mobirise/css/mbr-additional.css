@@ -1100,10 +1100,13 @@ a {
   text-align: left;
 }
 .cid-t4zgroN6Ak {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffb18a;
   overflow: hidden;
+}
+.cid-t4zgroN6Ak .media-container-row .mbr-text {
+  color: #353535;
 }
 .cid-t4zchZsPgW {
   z-index: 1000;
@@ -1501,8 +1504,11 @@ a {
   width: 1.6rem;
 }
 .cid-t4zgroN6Ak {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffb18a;
   overflow: hidden;
+}
+.cid-t4zgroN6Ak .media-container-row .mbr-text {
+  color: #353535;
 }
